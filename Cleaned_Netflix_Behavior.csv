@@ -1,0 +1,501 @@
+User_ID,Title,Genre,Date_Watched,Time_Spent,Device,Subscription,Country,Rating,Completion_Status,Watch_Hour,Watch_Day,Month,Binge_Watching
+U0001,Stranger Things,Action,2024-03-09,26,Mobile,Premium,Australia,1,Partial,0,Saturday,March,Normal
+U0002,Narcos,Thriller,2024-01-04,126,Smart TV,Standard,India,3,Dropped,0,Thursday,January,Binge
+U0003,Breaking Bad,Romance,2024-05-04,176,Laptop,Premium,USA,5,Partial,0,Saturday,May,Binge
+U0004,The Crown,Thriller,2024-06-04,94,Mobile,Basic,India,5,Completed,0,Tuesday,June,Binge
+U0005,The Crown,Thriller,2024-03-12,50,Mobile,Basic,USA,5,Dropped,0,Tuesday,March,Normal
+U0006,Stranger Things,Drama,2024-03-30,98,Mobile,Standard,Australia,4,Dropped,0,Saturday,March,Binge
+U0007,Stranger Things,Drama,2024-06-28,32,Mobile,Premium,Canada,5,Dropped,0,Friday,June,Normal
+U0008,Narcos,Action,2024-02-05,114,Laptop,Basic,UK,5,Partial,0,Monday,February,Binge
+U0009,Money Heist,Thriller,2024-06-18,133,Mobile,Basic,UK,4,Completed,0,Tuesday,June,Binge
+U0010,Breaking Bad,Documentary,2024-04-18,105,Smart TV,Basic,Canada,4,Dropped,0,Thursday,April,Binge
+U0011,Narcos,Comedy,2024-04-23,141,Laptop,Premium,USA,4,Partial,0,Tuesday,April,Binge
+U0012,Friends,Romance,2024-06-11,72,Tablet,Basic,Australia,3,Completed,0,Tuesday,June,Normal
+U0013,Narcos,Documentary,2024-06-19,76,Tablet,Standard,India,5,Partial,0,Wednesday,June,Normal
+U0014,Stranger Things,Comedy,2024-06-10,94,Tablet,Basic,UK,3,Dropped,0,Monday,June,Binge
+U0015,Money Heist,Romance,2024-02-17,30,Smart TV,Premium,Australia,3,Completed,0,Saturday,February,Normal
+U0016,Money Heist,Thriller,2024-03-20,76,Laptop,Basic,Australia,5,Dropped,0,Wednesday,March,Normal
+U0017,Breaking Bad,Comedy,2024-06-26,89,Laptop,Basic,India,2,Dropped,0,Wednesday,June,Normal
+U0018,Money Heist,Documentary,2024-01-14,41,Mobile,Basic,Canada,5,Completed,0,Sunday,January,Normal
+U0019,Money Heist,Romance,2024-01-22,150,Mobile,Basic,USA,4,Completed,0,Monday,January,Binge
+U0020,The Crown,Action,2024-04-26,133,Laptop,Basic,India,1,Completed,0,Friday,April,Binge
+U0021,The Crown,Comedy,2024-05-01,62,Smart TV,Premium,USA,3,Partial,0,Wednesday,May,Normal
+U0022,The Crown,Drama,2024-04-16,145,Laptop,Premium,USA,2,Completed,0,Tuesday,April,Binge
+U0023,Stranger Things,Action,2024-01-17,96,Smart TV,Standard,Canada,4,Partial,0,Wednesday,January,Binge
+U0024,Stranger Things,Drama,2024-05-18,54,Laptop,Premium,Canada,2,Partial,0,Saturday,May,Normal
+U0025,Narcos,Romance,2024-03-15,90,Smart TV,Premium,India,1,Completed,0,Friday,March,Binge
+U0026,Friends,Comedy,2024-03-19,56,Tablet,Premium,UK,4,Dropped,0,Tuesday,March,Normal
+U0027,Friends,Romance,2024-02-11,170,Tablet,Standard,Australia,5,Completed,0,Sunday,February,Binge
+U0028,The Crown,Action,2024-03-11,25,Smart TV,Basic,India,5,Partial,0,Monday,March,Normal
+U0029,Friends,Thriller,2024-03-17,25,Tablet,Premium,India,3,Dropped,0,Sunday,March,Normal
+U0030,Breaking Bad,Drama,2024-04-26,127,Mobile,Standard,UK,5,Completed,0,Friday,April,Binge
+U0031,Narcos,Thriller,2024-04-10,149,Smart TV,Basic,UK,3,Dropped,0,Wednesday,April,Binge
+U0032,Narcos,Thriller,2024-01-14,80,Tablet,Premium,Canada,5,Partial,0,Sunday,January,Normal
+U0033,Breaking Bad,Action,2024-02-07,151,Tablet,Standard,USA,5,Completed,0,Wednesday,February,Binge
+U0034,Friends,Romance,2024-04-29,105,Tablet,Standard,Australia,1,Completed,0,Monday,April,Binge
+U0035,The Crown,Thriller,2024-02-17,40,Smart TV,Premium,India,5,Dropped,0,Saturday,February,Normal
+U0036,The Crown,Thriller,2024-02-07,29,Smart TV,Standard,Australia,2,Partial,0,Wednesday,February,Normal
+U0037,The Crown,Action,2024-05-01,71,Mobile,Premium,UK,5,Dropped,0,Wednesday,May,Normal
+U0038,Money Heist,Comedy,2024-01-30,54,Tablet,Premium,USA,3,Dropped,0,Tuesday,January,Normal
+U0039,Breaking Bad,Romance,2024-02-23,110,Smart TV,Premium,Canada,2,Partial,0,Friday,February,Binge
+U0040,Stranger Things,Comedy,2024-06-01,24,Laptop,Standard,UK,1,Dropped,0,Saturday,June,Normal
+U0041,Stranger Things,Romance,2024-04-06,87,Smart TV,Basic,USA,5,Partial,0,Saturday,April,Normal
+U0042,Breaking Bad,Comedy,2024-04-02,67,Tablet,Premium,USA,2,Dropped,0,Tuesday,April,Normal
+U0043,Stranger Things,Action,2024-06-24,85,Tablet,Premium,Australia,1,Partial,0,Monday,June,Normal
+U0044,Friends,Documentary,2024-06-11,117,Smart TV,Premium,India,3,Dropped,0,Tuesday,June,Binge
+U0045,Friends,Thriller,2024-05-22,18,Mobile,Premium,Canada,5,Dropped,0,Wednesday,May,Normal
+U0046,Friends,Thriller,2024-04-24,115,Tablet,Premium,India,5,Completed,0,Wednesday,April,Binge
+U0047,Money Heist,Thriller,2024-06-11,93,Smart TV,Basic,UK,5,Dropped,0,Tuesday,June,Binge
+U0048,Narcos,Documentary,2024-01-06,154,Laptop,Basic,Canada,5,Completed,0,Saturday,January,Binge
+U0049,Money Heist,Romance,2024-06-23,178,Laptop,Basic,Canada,5,Dropped,0,Sunday,June,Binge
+U0050,Friends,Action,2024-05-27,60,Laptop,Premium,Australia,1,Partial,0,Monday,May,Normal
+U0051,Breaking Bad,Thriller,2024-03-15,51,Smart TV,Premium,USA,5,Partial,0,Friday,March,Normal
+U0052,Money Heist,Romance,2024-01-30,143,Smart TV,Premium,Australia,3,Partial,0,Tuesday,January,Binge
+U0053,Friends,Action,2024-01-19,21,Laptop,Premium,USA,3,Dropped,0,Friday,January,Normal
+U0054,Friends,Romance,2024-06-20,101,Mobile,Standard,UK,2,Dropped,0,Thursday,June,Binge
+U0055,The Crown,Drama,2024-03-16,68,Tablet,Standard,Australia,3,Dropped,0,Saturday,March,Normal
+U0056,Breaking Bad,Comedy,2024-05-20,152,Laptop,Standard,UK,3,Partial,0,Monday,May,Binge
+U0057,Breaking Bad,Thriller,2024-04-18,39,Mobile,Standard,USA,2,Partial,0,Thursday,April,Normal
+U0058,Money Heist,Comedy,2024-06-23,37,Mobile,Standard,Canada,5,Partial,0,Sunday,June,Normal
+U0059,Money Heist,Romance,2024-01-20,95,Mobile,Basic,UK,4,Completed,0,Saturday,January,Binge
+U0060,Narcos,Thriller,2024-03-25,53,Smart TV,Basic,India,4,Partial,0,Monday,March,Normal
+U0061,Money Heist,Drama,2024-01-31,129,Mobile,Standard,India,4,Partial,0,Wednesday,January,Binge
+U0062,Stranger Things,Comedy,2024-04-21,175,Smart TV,Standard,India,5,Completed,0,Sunday,April,Binge
+U0063,The Crown,Drama,2024-05-23,152,Laptop,Premium,Canada,4,Completed,0,Thursday,May,Binge
+U0064,Breaking Bad,Drama,2024-06-08,86,Mobile,Standard,UK,4,Partial,0,Saturday,June,Normal
+U0065,Money Heist,Comedy,2024-01-01,176,Smart TV,Basic,UK,1,Dropped,0,Monday,January,Binge
+U0066,Stranger Things,Drama,2024-06-14,88,Smart TV,Basic,India,4,Partial,0,Friday,June,Normal
+U0067,Breaking Bad,Romance,2024-04-24,156,Laptop,Standard,Canada,1,Completed,0,Wednesday,April,Binge
+U0068,Breaking Bad,Romance,2024-02-28,45,Smart TV,Standard,USA,5,Completed,0,Wednesday,February,Normal
+U0069,The Crown,Documentary,2024-04-08,145,Laptop,Basic,USA,2,Dropped,0,Monday,April,Binge
+U0070,Friends,Comedy,2024-06-16,74,Smart TV,Standard,UK,5,Completed,0,Sunday,June,Normal
+U0071,Stranger Things,Romance,2024-03-10,49,Tablet,Standard,India,5,Partial,0,Sunday,March,Normal
+U0072,Breaking Bad,Action,2024-06-06,22,Mobile,Basic,UK,5,Partial,0,Thursday,June,Normal
+U0073,Stranger Things,Romance,2024-05-04,106,Smart TV,Premium,India,2,Dropped,0,Saturday,May,Binge
+U0074,Friends,Comedy,2024-05-29,79,Tablet,Basic,India,2,Completed,0,Wednesday,May,Normal
+U0075,Breaking Bad,Romance,2024-03-20,113,Tablet,Basic,Australia,2,Dropped,0,Wednesday,March,Binge
+U0076,Stranger Things,Comedy,2024-05-20,15,Mobile,Basic,India,1,Partial,0,Monday,May,Normal
+U0077,Friends,Romance,2024-03-15,48,Smart TV,Standard,India,1,Dropped,0,Friday,March,Normal
+U0078,The Crown,Documentary,2024-01-22,113,Smart TV,Premium,USA,3,Completed,0,Monday,January,Binge
+U0079,Friends,Thriller,2024-05-07,180,Tablet,Premium,Australia,1,Dropped,0,Tuesday,May,Binge
+U0080,Stranger Things,Comedy,2024-06-26,176,Smart TV,Premium,USA,3,Completed,0,Wednesday,June,Binge
+U0081,Narcos,Documentary,2024-06-17,126,Smart TV,Premium,UK,5,Dropped,0,Monday,June,Binge
+U0082,The Crown,Comedy,2024-05-23,122,Smart TV,Standard,Australia,5,Completed,0,Thursday,May,Binge
+U0083,Friends,Drama,2024-01-20,115,Tablet,Basic,India,2,Completed,0,Saturday,January,Binge
+U0084,Money Heist,Documentary,2024-06-01,180,Mobile,Basic,India,5,Completed,0,Saturday,June,Binge
+U0085,Money Heist,Comedy,2024-02-24,12,Laptop,Premium,India,1,Dropped,0,Saturday,February,Normal
+U0086,Friends,Comedy,2024-05-17,45,Mobile,Basic,India,2,Partial,0,Friday,May,Normal
+U0087,Breaking Bad,Romance,2024-03-20,94,Mobile,Basic,UK,1,Partial,0,Wednesday,March,Binge
+U0088,Stranger Things,Documentary,2024-01-02,62,Laptop,Premium,Australia,1,Dropped,0,Tuesday,January,Normal
+U0089,Money Heist,Thriller,2024-04-21,12,Laptop,Premium,India,4,Dropped,0,Sunday,April,Normal
+U0090,Breaking Bad,Thriller,2024-01-23,174,Mobile,Standard,USA,2,Dropped,0,Tuesday,January,Binge
+U0091,Friends,Documentary,2024-01-03,59,Tablet,Standard,Canada,4,Completed,0,Wednesday,January,Normal
+U0092,The Crown,Romance,2024-03-17,89,Mobile,Standard,Canada,1,Dropped,0,Sunday,March,Normal
+U0093,Narcos,Comedy,2024-06-28,114,Mobile,Standard,India,5,Dropped,0,Friday,June,Binge
+U0094,Breaking Bad,Comedy,2024-05-06,172,Mobile,Basic,Canada,2,Dropped,0,Monday,May,Binge
+U0095,Stranger Things,Action,2024-05-25,69,Mobile,Standard,UK,5,Completed,0,Saturday,May,Normal
+U0096,Stranger Things,Drama,2024-04-24,36,Mobile,Basic,Canada,4,Completed,0,Wednesday,April,Normal
+U0097,Narcos,Drama,2024-02-03,102,Laptop,Standard,Canada,2,Completed,0,Saturday,February,Binge
+U0098,Narcos,Romance,2024-05-25,31,Tablet,Standard,India,4,Completed,0,Saturday,May,Normal
+U0099,Narcos,Documentary,2024-01-23,66,Tablet,Basic,UK,3,Dropped,0,Tuesday,January,Normal
+U0100,Friends,Comedy,2024-06-20,30,Laptop,Basic,Australia,3,Dropped,0,Thursday,June,Normal
+U0101,Friends,Romance,2024-05-11,152,Tablet,Standard,UK,5,Dropped,0,Saturday,May,Binge
+U0102,Stranger Things,Drama,2024-04-22,107,Tablet,Basic,Canada,5,Dropped,0,Monday,April,Binge
+U0103,Narcos,Action,2024-03-19,85,Smart TV,Standard,India,4,Completed,0,Tuesday,March,Normal
+U0104,Stranger Things,Drama,2024-04-10,109,Smart TV,Premium,USA,5,Dropped,0,Wednesday,April,Binge
+U0105,Stranger Things,Action,2024-01-24,42,Laptop,Standard,India,1,Partial,0,Wednesday,January,Normal
+U0106,Friends,Romance,2024-03-23,155,Laptop,Premium,Canada,5,Completed,0,Saturday,March,Binge
+U0107,The Crown,Romance,2024-01-07,150,Smart TV,Standard,UK,4,Completed,0,Sunday,January,Binge
+U0108,Stranger Things,Thriller,2024-05-08,146,Smart TV,Premium,UK,5,Partial,0,Wednesday,May,Binge
+U0109,Breaking Bad,Documentary,2024-04-26,50,Laptop,Basic,Canada,2,Dropped,0,Friday,April,Normal
+U0110,Narcos,Romance,2024-06-13,176,Laptop,Standard,USA,3,Partial,0,Thursday,June,Binge
+U0111,Narcos,Drama,2024-04-06,62,Mobile,Standard,USA,5,Completed,0,Saturday,April,Normal
+U0112,Money Heist,Comedy,2024-06-14,38,Mobile,Premium,Australia,2,Completed,0,Friday,June,Normal
+U0113,Friends,Thriller,2024-05-03,48,Smart TV,Standard,USA,2,Partial,0,Friday,May,Normal
+U0114,Stranger Things,Thriller,2024-06-02,87,Laptop,Premium,Australia,5,Dropped,0,Sunday,June,Normal
+U0115,Friends,Drama,2024-04-27,163,Tablet,Basic,UK,5,Dropped,0,Saturday,April,Binge
+U0116,Breaking Bad,Action,2024-05-18,18,Mobile,Standard,UK,4,Completed,0,Saturday,May,Normal
+U0117,Friends,Thriller,2024-03-02,90,Laptop,Standard,India,2,Dropped,0,Saturday,March,Binge
+U0118,Stranger Things,Comedy,2024-06-20,19,Laptop,Premium,India,4,Dropped,0,Thursday,June,Normal
+U0119,Narcos,Comedy,2024-06-23,40,Mobile,Basic,Canada,4,Partial,0,Sunday,June,Normal
+U0120,Breaking Bad,Drama,2024-05-09,69,Smart TV,Standard,Canada,5,Partial,0,Thursday,May,Normal
+U0121,Friends,Romance,2024-01-05,158,Mobile,Standard,Canada,5,Completed,0,Friday,January,Binge
+U0122,Friends,Thriller,2024-01-19,88,Smart TV,Standard,USA,3,Dropped,0,Friday,January,Normal
+U0123,Narcos,Documentary,2024-03-27,24,Tablet,Premium,Australia,4,Completed,0,Wednesday,March,Normal
+U0124,Stranger Things,Drama,2024-03-26,39,Laptop,Premium,Australia,3,Partial,0,Tuesday,March,Normal
+U0125,Stranger Things,Documentary,2024-06-26,80,Laptop,Standard,Australia,1,Partial,0,Wednesday,June,Normal
+U0126,The Crown,Thriller,2024-03-11,162,Laptop,Standard,Canada,2,Partial,0,Monday,March,Binge
+U0127,Friends,Drama,2024-02-01,124,Mobile,Basic,India,1,Completed,0,Thursday,February,Binge
+U0128,Money Heist,Action,2024-04-07,94,Tablet,Basic,UK,5,Dropped,0,Sunday,April,Binge
+U0129,Narcos,Drama,2024-02-22,76,Laptop,Basic,Canada,2,Completed,0,Thursday,February,Normal
+U0130,Stranger Things,Romance,2024-01-27,117,Smart TV,Basic,Canada,4,Partial,0,Saturday,January,Binge
+U0131,The Crown,Thriller,2024-06-14,53,Mobile,Standard,UK,5,Partial,0,Friday,June,Normal
+U0132,Money Heist,Comedy,2024-01-04,67,Tablet,Basic,USA,2,Dropped,0,Thursday,January,Normal
+U0133,Narcos,Drama,2024-03-03,14,Smart TV,Basic,UK,3,Partial,0,Sunday,March,Normal
+U0134,Narcos,Drama,2024-05-11,48,Tablet,Basic,Canada,1,Completed,0,Saturday,May,Normal
+U0135,Stranger Things,Action,2024-01-24,139,Mobile,Premium,UK,1,Dropped,0,Wednesday,January,Binge
+U0136,Friends,Romance,2024-02-23,45,Mobile,Premium,Australia,4,Partial,0,Friday,February,Normal
+U0137,Money Heist,Drama,2024-02-08,92,Laptop,Premium,UK,4,Partial,0,Thursday,February,Binge
+U0138,Friends,Comedy,2024-04-01,151,Tablet,Standard,Canada,5,Dropped,0,Monday,April,Binge
+U0139,The Crown,Documentary,2024-06-11,44,Smart TV,Basic,UK,4,Completed,0,Tuesday,June,Normal
+U0140,Money Heist,Drama,2024-05-29,138,Mobile,Premium,Canada,3,Completed,0,Wednesday,May,Binge
+U0141,Stranger Things,Thriller,2024-05-27,57,Smart TV,Standard,USA,1,Partial,0,Monday,May,Normal
+U0142,Narcos,Documentary,2024-03-14,131,Laptop,Basic,Australia,2,Partial,0,Thursday,March,Binge
+U0143,Friends,Documentary,2024-02-28,51,Smart TV,Standard,UK,2,Partial,0,Wednesday,February,Normal
+U0144,Friends,Romance,2024-02-03,164,Mobile,Premium,Australia,1,Dropped,0,Saturday,February,Binge
+U0145,Breaking Bad,Documentary,2024-02-27,115,Laptop,Basic,USA,4,Completed,0,Tuesday,February,Binge
+U0146,The Crown,Action,2024-06-22,54,Laptop,Standard,UK,1,Completed,0,Saturday,June,Normal
+U0147,The Crown,Comedy,2024-01-26,70,Laptop,Standard,USA,3,Partial,0,Friday,January,Normal
+U0148,The Crown,Documentary,2024-03-29,34,Tablet,Standard,Canada,3,Partial,0,Friday,March,Normal
+U0149,Money Heist,Drama,2024-06-26,94,Mobile,Premium,India,1,Partial,0,Wednesday,June,Binge
+U0150,Breaking Bad,Romance,2024-06-19,180,Mobile,Basic,India,2,Partial,0,Wednesday,June,Binge
+U0151,Stranger Things,Thriller,2024-03-18,131,Tablet,Premium,UK,4,Dropped,0,Monday,March,Binge
+U0152,Friends,Documentary,2024-04-18,104,Laptop,Standard,Australia,2,Dropped,0,Thursday,April,Binge
+U0153,Friends,Thriller,2024-03-09,44,Laptop,Standard,UK,3,Partial,0,Saturday,March,Normal
+U0154,The Crown,Documentary,2024-03-07,173,Laptop,Premium,UK,3,Dropped,0,Thursday,March,Binge
+U0155,Narcos,Comedy,2024-06-25,47,Smart TV,Standard,UK,4,Dropped,0,Tuesday,June,Normal
+U0156,The Crown,Thriller,2024-03-21,35,Tablet,Premium,Australia,2,Dropped,0,Thursday,March,Normal
+U0157,Breaking Bad,Thriller,2024-06-01,21,Mobile,Premium,UK,2,Dropped,0,Saturday,June,Normal
+U0158,Narcos,Thriller,2024-06-12,32,Mobile,Premium,UK,2,Dropped,0,Wednesday,June,Normal
+U0159,Stranger Things,Romance,2024-03-09,177,Tablet,Premium,Canada,1,Partial,0,Saturday,March,Binge
+U0160,Friends,Romance,2024-01-31,115,Smart TV,Premium,Canada,2,Partial,0,Wednesday,January,Binge
+U0161,The Crown,Action,2024-05-25,58,Mobile,Standard,Australia,4,Completed,0,Saturday,May,Normal
+U0162,Narcos,Comedy,2024-03-17,111,Mobile,Standard,Canada,5,Dropped,0,Sunday,March,Binge
+U0163,The Crown,Romance,2024-01-27,119,Laptop,Premium,Canada,3,Dropped,0,Saturday,January,Binge
+U0164,Narcos,Action,2024-02-11,17,Smart TV,Premium,Canada,3,Partial,0,Sunday,February,Normal
+U0165,Friends,Thriller,2024-04-28,50,Tablet,Standard,Canada,1,Partial,0,Sunday,April,Normal
+U0166,Breaking Bad,Action,2024-01-19,109,Smart TV,Basic,Australia,4,Partial,0,Friday,January,Binge
+U0167,Breaking Bad,Action,2024-03-03,119,Laptop,Basic,Canada,2,Completed,0,Sunday,March,Binge
+U0168,The Crown,Action,2024-04-07,123,Smart TV,Standard,India,1,Completed,0,Sunday,April,Binge
+U0169,Stranger Things,Thriller,2024-02-22,172,Mobile,Standard,UK,2,Partial,0,Thursday,February,Binge
+U0170,Narcos,Action,2024-04-24,61,Laptop,Basic,India,5,Completed,0,Wednesday,April,Normal
+U0171,Stranger Things,Documentary,2024-03-30,94,Smart TV,Standard,India,1,Dropped,0,Saturday,March,Binge
+U0172,The Crown,Comedy,2024-06-13,175,Tablet,Basic,UK,5,Completed,0,Thursday,June,Binge
+U0173,Money Heist,Drama,2024-03-21,120,Smart TV,Standard,India,5,Dropped,0,Thursday,March,Binge
+U0174,The Crown,Drama,2024-03-04,58,Laptop,Premium,Canada,1,Partial,0,Monday,March,Normal
+U0175,The Crown,Comedy,2024-03-17,99,Laptop,Basic,USA,2,Completed,0,Sunday,March,Binge
+U0176,Narcos,Documentary,2024-02-16,77,Smart TV,Standard,Australia,2,Dropped,0,Friday,February,Normal
+U0177,Friends,Thriller,2024-06-27,37,Tablet,Premium,UK,2,Completed,0,Thursday,June,Normal
+U0178,Money Heist,Action,2024-06-24,178,Smart TV,Basic,UK,5,Completed,0,Monday,June,Binge
+U0179,The Crown,Thriller,2024-03-10,158,Smart TV,Standard,India,3,Completed,0,Sunday,March,Binge
+U0180,Stranger Things,Thriller,2024-05-02,160,Laptop,Standard,Canada,5,Dropped,0,Thursday,May,Binge
+U0181,The Crown,Comedy,2024-03-12,59,Mobile,Basic,India,2,Dropped,0,Tuesday,March,Normal
+U0182,Breaking Bad,Comedy,2024-02-09,167,Smart TV,Premium,Australia,3,Dropped,0,Friday,February,Binge
+U0183,Stranger Things,Drama,2024-02-06,172,Smart TV,Standard,Canada,5,Partial,0,Tuesday,February,Binge
+U0184,Stranger Things,Documentary,2024-03-11,71,Laptop,Standard,USA,4,Partial,0,Monday,March,Normal
+U0185,Money Heist,Romance,2024-03-29,129,Mobile,Premium,USA,3,Partial,0,Friday,March,Binge
+U0186,Breaking Bad,Action,2024-03-31,175,Mobile,Basic,India,5,Partial,0,Sunday,March,Binge
+U0187,Breaking Bad,Thriller,2024-05-05,63,Mobile,Basic,UK,1,Dropped,0,Sunday,May,Normal
+U0188,Narcos,Documentary,2024-01-05,18,Mobile,Premium,India,4,Partial,0,Friday,January,Normal
+U0189,Friends,Comedy,2024-06-16,55,Mobile,Standard,Canada,1,Completed,0,Sunday,June,Normal
+U0190,The Crown,Documentary,2024-03-26,21,Laptop,Premium,India,2,Partial,0,Tuesday,March,Normal
+U0191,Friends,Drama,2024-01-22,45,Laptop,Standard,USA,1,Partial,0,Monday,January,Normal
+U0192,The Crown,Thriller,2024-05-18,45,Tablet,Standard,India,4,Dropped,0,Saturday,May,Normal
+U0193,Stranger Things,Romance,2024-01-01,48,Laptop,Basic,Australia,1,Completed,0,Monday,January,Normal
+U0194,Stranger Things,Action,2024-04-01,172,Mobile,Standard,Australia,3,Partial,0,Monday,April,Binge
+U0195,Narcos,Thriller,2024-03-27,97,Tablet,Basic,Canada,3,Dropped,0,Wednesday,March,Binge
+U0196,Stranger Things,Action,2024-05-25,98,Laptop,Premium,India,1,Partial,0,Saturday,May,Binge
+U0197,Money Heist,Comedy,2024-02-21,165,Tablet,Premium,UK,1,Completed,0,Wednesday,February,Binge
+U0198,Money Heist,Drama,2024-03-08,173,Mobile,Standard,USA,4,Dropped,0,Friday,March,Binge
+U0199,Money Heist,Comedy,2024-05-18,162,Mobile,Standard,Canada,5,Dropped,0,Saturday,May,Binge
+U0200,Narcos,Drama,2024-05-01,34,Tablet,Premium,Australia,3,Partial,0,Wednesday,May,Normal
+U0201,Friends,Romance,2024-05-30,82,Laptop,Standard,Australia,4,Completed,0,Thursday,May,Normal
+U0202,Narcos,Documentary,2024-01-03,52,Mobile,Premium,India,2,Completed,0,Wednesday,January,Normal
+U0203,Narcos,Romance,2024-06-13,59,Smart TV,Standard,India,3,Partial,0,Thursday,June,Normal
+U0204,Money Heist,Documentary,2024-03-07,63,Tablet,Premium,Australia,5,Partial,0,Thursday,March,Normal
+U0205,Narcos,Romance,2024-05-14,168,Laptop,Premium,Canada,3,Dropped,0,Tuesday,May,Binge
+U0206,Stranger Things,Documentary,2024-06-04,22,Mobile,Basic,Canada,1,Partial,0,Tuesday,June,Normal
+U0207,Money Heist,Thriller,2024-02-11,89,Laptop,Basic,India,3,Completed,0,Sunday,February,Normal
+U0208,Stranger Things,Drama,2024-01-13,23,Laptop,Premium,USA,2,Dropped,0,Saturday,January,Normal
+U0209,The Crown,Drama,2024-02-25,40,Laptop,Standard,Australia,1,Partial,0,Sunday,February,Normal
+U0210,Money Heist,Thriller,2024-02-29,84,Laptop,Standard,Australia,2,Dropped,0,Thursday,February,Normal
+U0211,Friends,Romance,2024-02-13,136,Laptop,Basic,USA,2,Partial,0,Tuesday,February,Binge
+U0212,Friends,Comedy,2024-06-11,54,Smart TV,Premium,UK,4,Completed,0,Tuesday,June,Normal
+U0213,Stranger Things,Thriller,2024-05-27,11,Laptop,Basic,Canada,3,Completed,0,Monday,May,Normal
+U0214,Money Heist,Drama,2024-04-09,33,Mobile,Standard,India,5,Partial,0,Tuesday,April,Normal
+U0215,Breaking Bad,Drama,2024-05-02,141,Laptop,Basic,UK,3,Partial,0,Thursday,May,Binge
+U0216,The Crown,Thriller,2024-02-24,50,Tablet,Premium,USA,4,Dropped,0,Saturday,February,Normal
+U0217,Breaking Bad,Romance,2024-02-08,116,Smart TV,Premium,UK,5,Completed,0,Thursday,February,Binge
+U0218,Friends,Documentary,2024-03-30,93,Laptop,Premium,Australia,1,Completed,0,Saturday,March,Binge
+U0219,Money Heist,Thriller,2024-04-14,17,Laptop,Standard,Australia,5,Dropped,0,Sunday,April,Normal
+U0220,The Crown,Comedy,2024-01-08,55,Laptop,Basic,UK,5,Completed,0,Monday,January,Normal
+U0221,Breaking Bad,Action,2024-02-17,118,Smart TV,Premium,Australia,3,Partial,0,Saturday,February,Binge
+U0222,The Crown,Documentary,2024-06-28,69,Laptop,Premium,Canada,4,Completed,0,Friday,June,Normal
+U0223,Narcos,Documentary,2024-05-10,66,Smart TV,Basic,India,2,Dropped,0,Friday,May,Normal
+U0224,Money Heist,Action,2024-03-31,50,Tablet,Basic,UK,5,Partial,0,Sunday,March,Normal
+U0225,Money Heist,Documentary,2024-05-07,45,Tablet,Basic,USA,4,Dropped,0,Tuesday,May,Normal
+U0226,Breaking Bad,Thriller,2024-01-03,92,Laptop,Basic,UK,3,Partial,0,Wednesday,January,Binge
+U0227,Stranger Things,Documentary,2024-03-30,21,Mobile,Premium,Australia,3,Dropped,0,Saturday,March,Normal
+U0228,Friends,Action,2024-02-12,162,Smart TV,Basic,Canada,5,Partial,0,Monday,February,Binge
+U0229,Money Heist,Romance,2024-05-18,112,Smart TV,Standard,UK,2,Completed,0,Saturday,May,Binge
+U0230,Narcos,Documentary,2024-01-17,114,Tablet,Premium,Canada,4,Completed,0,Wednesday,January,Binge
+U0231,Stranger Things,Action,2024-01-11,74,Smart TV,Premium,Australia,4,Completed,0,Thursday,January,Normal
+U0232,Narcos,Documentary,2024-05-27,67,Mobile,Standard,India,3,Completed,0,Monday,May,Normal
+U0233,Money Heist,Documentary,2024-02-27,123,Smart TV,Basic,UK,2,Completed,0,Tuesday,February,Binge
+U0234,Breaking Bad,Comedy,2024-05-04,177,Laptop,Premium,Australia,3,Completed,0,Saturday,May,Binge
+U0235,Narcos,Comedy,2024-02-05,173,Tablet,Basic,UK,3,Partial,0,Monday,February,Binge
+U0236,Money Heist,Documentary,2024-01-09,74,Tablet,Standard,UK,1,Partial,0,Tuesday,January,Normal
+U0237,Narcos,Documentary,2024-05-24,17,Laptop,Standard,USA,5,Completed,0,Friday,May,Normal
+U0238,Narcos,Romance,2024-02-28,105,Mobile,Standard,Australia,2,Partial,0,Wednesday,February,Binge
+U0239,Money Heist,Drama,2024-05-05,155,Laptop,Premium,India,1,Completed,0,Sunday,May,Binge
+U0240,Stranger Things,Drama,2024-05-16,105,Mobile,Basic,USA,1,Partial,0,Thursday,May,Binge
+U0241,The Crown,Thriller,2024-01-08,84,Laptop,Basic,UK,1,Dropped,0,Monday,January,Normal
+U0242,Narcos,Comedy,2024-02-12,78,Tablet,Basic,USA,5,Partial,0,Monday,February,Normal
+U0243,The Crown,Drama,2024-06-27,163,Tablet,Basic,Australia,2,Dropped,0,Thursday,June,Binge
+U0244,Stranger Things,Comedy,2024-01-02,115,Laptop,Basic,Canada,3,Completed,0,Tuesday,January,Binge
+U0245,Narcos,Action,2024-01-31,147,Mobile,Standard,USA,3,Partial,0,Wednesday,January,Binge
+U0246,Friends,Thriller,2024-01-09,136,Laptop,Basic,Canada,2,Completed,0,Tuesday,January,Binge
+U0247,Money Heist,Thriller,2024-03-04,49,Laptop,Premium,UK,4,Completed,0,Monday,March,Normal
+U0248,Breaking Bad,Comedy,2024-02-13,46,Mobile,Basic,Australia,5,Completed,0,Tuesday,February,Normal
+U0249,Money Heist,Documentary,2024-06-13,18,Mobile,Premium,India,3,Dropped,0,Thursday,June,Normal
+U0250,Stranger Things,Action,2024-01-26,134,Smart TV,Premium,UK,2,Completed,0,Friday,January,Binge
+U0251,Money Heist,Drama,2024-01-05,56,Smart TV,Standard,Canada,2,Dropped,0,Friday,January,Normal
+U0252,Friends,Comedy,2024-01-06,28,Tablet,Standard,India,1,Dropped,0,Saturday,January,Normal
+U0253,The Crown,Thriller,2024-04-20,49,Laptop,Standard,USA,3,Dropped,0,Saturday,April,Normal
+U0254,Breaking Bad,Action,2024-02-08,160,Smart TV,Premium,Canada,3,Completed,0,Thursday,February,Binge
+U0255,Money Heist,Action,2024-01-31,79,Tablet,Premium,Canada,1,Dropped,0,Wednesday,January,Normal
+U0256,Money Heist,Comedy,2024-04-28,80,Smart TV,Standard,Australia,2,Dropped,0,Sunday,April,Normal
+U0257,Narcos,Romance,2024-02-20,66,Laptop,Standard,Canada,2,Completed,0,Tuesday,February,Normal
+U0258,Breaking Bad,Thriller,2024-02-05,42,Laptop,Standard,UK,5,Completed,0,Monday,February,Normal
+U0259,Money Heist,Thriller,2024-06-18,141,Mobile,Premium,UK,2,Completed,0,Tuesday,June,Binge
+U0260,Stranger Things,Thriller,2024-03-27,174,Tablet,Premium,India,4,Completed,0,Wednesday,March,Binge
+U0261,Narcos,Romance,2024-05-01,26,Laptop,Basic,USA,1,Dropped,0,Wednesday,May,Normal
+U0262,Stranger Things,Thriller,2024-02-29,156,Smart TV,Basic,UK,5,Partial,0,Thursday,February,Binge
+U0263,Friends,Thriller,2024-03-16,116,Tablet,Standard,UK,1,Dropped,0,Saturday,March,Binge
+U0264,Narcos,Documentary,2024-02-29,60,Smart TV,Basic,Canada,1,Partial,0,Thursday,February,Normal
+U0265,Money Heist,Romance,2024-01-17,121,Smart TV,Basic,India,5,Completed,0,Wednesday,January,Binge
+U0266,The Crown,Comedy,2024-05-21,97,Mobile,Standard,India,2,Partial,0,Tuesday,May,Binge
+U0267,Stranger Things,Drama,2024-03-27,67,Laptop,Basic,UK,2,Completed,0,Wednesday,March,Normal
+U0268,Breaking Bad,Action,2024-05-03,60,Tablet,Premium,Canada,4,Completed,0,Friday,May,Normal
+U0269,Stranger Things,Romance,2024-04-17,150,Laptop,Basic,Australia,2,Completed,0,Wednesday,April,Binge
+U0270,Narcos,Thriller,2024-03-09,157,Mobile,Premium,Canada,2,Dropped,0,Saturday,March,Binge
+U0271,Friends,Romance,2024-06-14,139,Smart TV,Standard,UK,4,Completed,0,Friday,June,Binge
+U0272,The Crown,Thriller,2024-04-05,33,Tablet,Basic,India,5,Dropped,0,Friday,April,Normal
+U0273,Narcos,Romance,2024-06-04,166,Smart TV,Basic,USA,5,Completed,0,Tuesday,June,Binge
+U0274,Stranger Things,Documentary,2024-04-09,132,Smart TV,Basic,UK,1,Completed,0,Tuesday,April,Binge
+U0275,Breaking Bad,Drama,2024-06-16,139,Smart TV,Premium,UK,2,Dropped,0,Sunday,June,Binge
+U0276,The Crown,Documentary,2024-02-29,18,Mobile,Premium,UK,2,Dropped,0,Thursday,February,Normal
+U0277,Friends,Comedy,2024-01-11,177,Laptop,Standard,UK,3,Dropped,0,Thursday,January,Binge
+U0278,Narcos,Drama,2024-01-30,178,Mobile,Standard,Australia,1,Dropped,0,Tuesday,January,Binge
+U0279,Breaking Bad,Thriller,2024-06-11,27,Mobile,Basic,Canada,5,Partial,0,Tuesday,June,Normal
+U0280,Breaking Bad,Romance,2024-06-16,89,Mobile,Basic,Canada,3,Dropped,0,Sunday,June,Normal
+U0281,The Crown,Documentary,2024-05-30,153,Laptop,Basic,India,1,Completed,0,Thursday,May,Binge
+U0282,Stranger Things,Comedy,2024-05-29,67,Tablet,Premium,UK,4,Dropped,0,Wednesday,May,Normal
+U0283,Friends,Romance,2024-01-26,159,Tablet,Basic,UK,4,Completed,0,Friday,January,Binge
+U0284,Friends,Romance,2024-04-18,31,Laptop,Basic,Australia,3,Completed,0,Thursday,April,Normal
+U0285,Friends,Thriller,2024-05-13,153,Smart TV,Basic,Canada,4,Partial,0,Monday,May,Binge
+U0286,Narcos,Comedy,2024-03-24,150,Mobile,Basic,UK,5,Dropped,0,Sunday,March,Binge
+U0287,The Crown,Documentary,2024-01-19,145,Smart TV,Premium,USA,3,Dropped,0,Friday,January,Binge
+U0288,Breaking Bad,Romance,2024-05-02,141,Smart TV,Premium,USA,5,Dropped,0,Thursday,May,Binge
+U0289,Money Heist,Drama,2024-04-19,42,Smart TV,Premium,USA,4,Partial,0,Friday,April,Normal
+U0290,Stranger Things,Thriller,2024-06-17,61,Smart TV,Standard,India,2,Partial,0,Monday,June,Normal
+U0291,Narcos,Thriller,2024-03-06,27,Mobile,Premium,Canada,5,Completed,0,Wednesday,March,Normal
+U0292,Stranger Things,Documentary,2024-04-29,32,Tablet,Basic,India,5,Dropped,0,Monday,April,Normal
+U0293,Friends,Thriller,2024-05-27,142,Mobile,Basic,India,3,Completed,0,Monday,May,Binge
+U0294,Stranger Things,Action,2024-03-14,39,Smart TV,Basic,USA,2,Completed,0,Thursday,March,Normal
+U0295,Money Heist,Thriller,2024-05-08,32,Mobile,Standard,Canada,1,Completed,0,Wednesday,May,Normal
+U0296,Friends,Action,2024-05-02,29,Tablet,Standard,USA,3,Completed,0,Thursday,May,Normal
+U0297,Breaking Bad,Action,2024-06-27,94,Tablet,Premium,USA,3,Completed,0,Thursday,June,Binge
+U0298,Money Heist,Action,2024-01-16,109,Laptop,Basic,USA,5,Dropped,0,Tuesday,January,Binge
+U0299,Narcos,Comedy,2024-05-25,50,Mobile,Premium,Canada,2,Partial,0,Saturday,May,Normal
+U0300,Friends,Action,2024-06-23,57,Smart TV,Basic,Canada,5,Completed,0,Sunday,June,Normal
+U0301,Friends,Drama,2024-04-21,154,Mobile,Premium,UK,1,Completed,0,Sunday,April,Binge
+U0302,Friends,Thriller,2024-05-23,69,Laptop,Standard,UK,5,Partial,0,Thursday,May,Normal
+U0303,The Crown,Comedy,2024-01-12,57,Laptop,Premium,Canada,3,Completed,0,Friday,January,Normal
+U0304,The Crown,Romance,2024-06-13,148,Smart TV,Premium,Canada,1,Dropped,0,Thursday,June,Binge
+U0305,Narcos,Documentary,2024-01-31,156,Tablet,Basic,India,3,Completed,0,Wednesday,January,Binge
+U0306,Friends,Romance,2024-03-26,50,Mobile,Standard,Australia,4,Dropped,0,Tuesday,March,Normal
+U0307,Stranger Things,Action,2024-06-28,51,Mobile,Premium,Australia,1,Partial,0,Friday,June,Normal
+U0308,Money Heist,Drama,2024-01-28,27,Smart TV,Basic,India,3,Partial,0,Sunday,January,Normal
+U0309,The Crown,Comedy,2024-02-04,46,Mobile,Premium,Canada,4,Partial,0,Sunday,February,Normal
+U0310,Friends,Documentary,2024-02-02,10,Smart TV,Basic,Australia,2,Partial,0,Friday,February,Normal
+U0311,Friends,Thriller,2024-02-28,16,Mobile,Premium,USA,4,Completed,0,Wednesday,February,Normal
+U0312,Breaking Bad,Thriller,2024-01-22,91,Mobile,Basic,India,1,Dropped,0,Monday,January,Binge
+U0313,Money Heist,Thriller,2024-03-23,152,Smart TV,Standard,India,5,Partial,0,Saturday,March,Binge
+U0314,Money Heist,Comedy,2024-05-22,55,Smart TV,Premium,UK,3,Dropped,0,Wednesday,May,Normal
+U0315,Stranger Things,Drama,2024-05-21,69,Tablet,Premium,Australia,2,Partial,0,Tuesday,May,Normal
+U0316,Stranger Things,Documentary,2024-06-17,27,Tablet,Premium,India,2,Partial,0,Monday,June,Normal
+U0317,Stranger Things,Documentary,2024-02-11,134,Laptop,Premium,Australia,4,Partial,0,Sunday,February,Binge
+U0318,Stranger Things,Documentary,2024-06-23,54,Mobile,Basic,India,2,Dropped,0,Sunday,June,Normal
+U0319,The Crown,Thriller,2024-01-27,134,Laptop,Standard,USA,2,Dropped,0,Saturday,January,Binge
+U0320,The Crown,Action,2024-05-06,82,Laptop,Premium,USA,4,Partial,0,Monday,May,Normal
+U0321,Stranger Things,Comedy,2024-01-21,158,Mobile,Basic,Australia,5,Dropped,0,Sunday,January,Binge
+U0322,Narcos,Comedy,2024-05-20,52,Tablet,Premium,Canada,4,Completed,0,Monday,May,Normal
+U0323,Money Heist,Action,2024-06-14,35,Smart TV,Basic,India,4,Completed,0,Friday,June,Normal
+U0324,Narcos,Romance,2024-02-11,110,Laptop,Premium,Canada,4,Completed,0,Sunday,February,Binge
+U0325,Narcos,Action,2024-05-01,65,Laptop,Premium,Australia,1,Partial,0,Wednesday,May,Normal
+U0326,Money Heist,Thriller,2024-05-13,158,Smart TV,Premium,India,2,Dropped,0,Monday,May,Binge
+U0327,Breaking Bad,Comedy,2024-05-04,111,Smart TV,Premium,Canada,2,Dropped,0,Saturday,May,Binge
+U0328,Narcos,Romance,2024-03-01,65,Mobile,Standard,UK,1,Dropped,0,Friday,March,Normal
+U0329,Money Heist,Drama,2024-01-07,116,Laptop,Premium,Canada,4,Dropped,0,Sunday,January,Binge
+U0330,Stranger Things,Action,2024-02-14,120,Tablet,Basic,Australia,5,Dropped,0,Wednesday,February,Binge
+U0331,Stranger Things,Documentary,2024-02-16,154,Mobile,Standard,USA,4,Dropped,0,Friday,February,Binge
+U0332,Stranger Things,Comedy,2024-02-01,60,Mobile,Premium,Australia,4,Completed,0,Thursday,February,Normal
+U0333,Stranger Things,Comedy,2024-02-25,135,Mobile,Basic,Australia,2,Dropped,0,Sunday,February,Binge
+U0334,Friends,Documentary,2024-03-31,130,Tablet,Standard,Canada,3,Completed,0,Sunday,March,Binge
+U0335,Narcos,Thriller,2024-06-09,69,Mobile,Premium,Australia,4,Dropped,0,Sunday,June,Normal
+U0336,Money Heist,Romance,2024-02-24,80,Laptop,Premium,Australia,5,Dropped,0,Saturday,February,Normal
+U0337,The Crown,Action,2024-03-24,24,Smart TV,Premium,UK,5,Partial,0,Sunday,March,Normal
+U0338,The Crown,Thriller,2024-03-01,124,Tablet,Premium,UK,2,Dropped,0,Friday,March,Binge
+U0339,Money Heist,Action,2024-06-06,57,Smart TV,Premium,USA,4,Partial,0,Thursday,June,Normal
+U0340,Narcos,Action,2024-04-07,152,Laptop,Standard,India,5,Completed,0,Sunday,April,Binge
+U0341,The Crown,Action,2024-06-25,158,Tablet,Standard,UK,5,Dropped,0,Tuesday,June,Binge
+U0342,Money Heist,Action,2024-01-10,61,Tablet,Standard,India,3,Dropped,0,Wednesday,January,Normal
+U0343,Stranger Things,Comedy,2024-06-03,146,Laptop,Basic,Canada,5,Dropped,0,Monday,June,Binge
+U0344,Money Heist,Drama,2024-04-04,139,Tablet,Premium,UK,5,Completed,0,Thursday,April,Binge
+U0345,Breaking Bad,Action,2024-02-29,63,Mobile,Basic,Canada,4,Partial,0,Thursday,February,Normal
+U0346,Friends,Comedy,2024-02-10,85,Smart TV,Standard,USA,5,Partial,0,Saturday,February,Normal
+U0347,Narcos,Romance,2024-05-31,109,Laptop,Premium,Australia,2,Partial,0,Friday,May,Binge
+U0348,Breaking Bad,Action,2024-04-11,53,Mobile,Basic,India,2,Partial,0,Thursday,April,Normal
+U0349,The Crown,Romance,2024-05-21,171,Smart TV,Standard,Australia,4,Partial,0,Tuesday,May,Binge
+U0350,Money Heist,Comedy,2024-04-15,75,Tablet,Standard,Canada,1,Partial,0,Monday,April,Normal
+U0351,Friends,Thriller,2024-01-21,54,Laptop,Standard,Canada,5,Partial,0,Sunday,January,Normal
+U0352,Stranger Things,Documentary,2024-03-29,19,Mobile,Basic,India,3,Completed,0,Friday,March,Normal
+U0353,Narcos,Romance,2024-04-02,30,Smart TV,Standard,Australia,5,Partial,0,Tuesday,April,Normal
+U0354,Stranger Things,Action,2024-03-12,79,Mobile,Premium,India,1,Completed,0,Tuesday,March,Normal
+U0355,Friends,Romance,2024-06-02,177,Tablet,Standard,Australia,3,Dropped,0,Sunday,June,Binge
+U0356,Money Heist,Documentary,2024-06-19,79,Laptop,Premium,Australia,5,Dropped,0,Wednesday,June,Normal
+U0357,Money Heist,Action,2024-03-03,26,Smart TV,Standard,UK,1,Dropped,0,Sunday,March,Normal
+U0358,Money Heist,Documentary,2024-04-15,85,Smart TV,Standard,Australia,1,Completed,0,Monday,April,Normal
+U0359,The Crown,Thriller,2024-01-05,78,Laptop,Standard,India,5,Completed,0,Friday,January,Normal
+U0360,The Crown,Comedy,2024-04-09,13,Mobile,Basic,USA,3,Partial,0,Tuesday,April,Normal
+U0361,Stranger Things,Drama,2024-03-23,165,Laptop,Standard,India,4,Completed,0,Saturday,March,Binge
+U0362,Narcos,Documentary,2024-04-30,144,Smart TV,Standard,Canada,3,Dropped,0,Tuesday,April,Binge
+U0363,Breaking Bad,Documentary,2024-03-20,10,Mobile,Standard,Australia,5,Dropped,0,Wednesday,March,Normal
+U0364,Money Heist,Documentary,2024-03-23,60,Mobile,Basic,Canada,4,Partial,0,Saturday,March,Normal
+U0365,Breaking Bad,Thriller,2024-04-17,18,Smart TV,Basic,India,3,Dropped,0,Wednesday,April,Normal
+U0366,Friends,Drama,2024-01-01,63,Smart TV,Basic,Canada,5,Completed,0,Monday,January,Normal
+U0367,Friends,Romance,2024-03-07,138,Tablet,Basic,Canada,4,Completed,0,Thursday,March,Binge
+U0368,Money Heist,Documentary,2024-01-30,85,Tablet,Premium,Canada,2,Dropped,0,Tuesday,January,Normal
+U0369,Money Heist,Documentary,2024-03-27,34,Laptop,Basic,USA,3,Partial,0,Wednesday,March,Normal
+U0370,Money Heist,Romance,2024-03-13,153,Tablet,Standard,UK,2,Partial,0,Wednesday,March,Binge
+U0371,Breaking Bad,Drama,2024-05-18,53,Laptop,Standard,India,5,Dropped,0,Saturday,May,Normal
+U0372,The Crown,Documentary,2024-01-26,117,Mobile,Standard,USA,4,Dropped,0,Friday,January,Binge
+U0373,Friends,Romance,2024-03-01,117,Smart TV,Premium,Canada,5,Partial,0,Friday,March,Binge
+U0374,The Crown,Documentary,2024-01-09,135,Mobile,Premium,India,1,Completed,0,Tuesday,January,Binge
+U0375,Money Heist,Comedy,2024-03-22,10,Mobile,Basic,UK,2,Dropped,0,Friday,March,Normal
+U0376,The Crown,Romance,2024-02-04,13,Tablet,Premium,USA,1,Dropped,0,Sunday,February,Normal
+U0377,Breaking Bad,Comedy,2024-01-07,86,Smart TV,Premium,India,1,Dropped,0,Sunday,January,Normal
+U0378,Friends,Drama,2024-01-12,108,Smart TV,Basic,Australia,3,Partial,0,Friday,January,Binge
+U0379,The Crown,Comedy,2024-01-28,158,Tablet,Standard,UK,1,Dropped,0,Sunday,January,Binge
+U0380,Breaking Bad,Drama,2024-03-29,155,Smart TV,Basic,USA,3,Dropped,0,Friday,March,Binge
+U0381,The Crown,Thriller,2024-05-24,83,Mobile,Standard,India,4,Partial,0,Friday,May,Normal
+U0382,Breaking Bad,Drama,2024-05-28,149,Laptop,Basic,Canada,2,Partial,0,Tuesday,May,Binge
+U0383,Narcos,Romance,2024-06-29,146,Smart TV,Basic,India,4,Partial,0,Saturday,June,Binge
+U0384,Narcos,Thriller,2024-04-17,12,Smart TV,Premium,USA,4,Dropped,0,Wednesday,April,Normal
+U0385,Friends,Romance,2024-05-22,91,Tablet,Standard,UK,1,Partial,0,Wednesday,May,Binge
+U0386,Money Heist,Comedy,2024-01-13,105,Laptop,Premium,UK,1,Dropped,0,Saturday,January,Binge
+U0387,The Crown,Thriller,2024-06-14,153,Mobile,Basic,USA,4,Completed,0,Friday,June,Binge
+U0388,Friends,Thriller,2024-04-25,64,Tablet,Standard,USA,5,Partial,0,Thursday,April,Normal
+U0389,The Crown,Action,2024-01-03,127,Mobile,Basic,UK,1,Dropped,0,Wednesday,January,Binge
+U0390,Stranger Things,Drama,2024-05-15,106,Smart TV,Premium,India,2,Partial,0,Wednesday,May,Binge
+U0391,The Crown,Drama,2024-06-27,71,Smart TV,Premium,USA,2,Dropped,0,Thursday,June,Normal
+U0392,Stranger Things,Romance,2024-01-04,166,Tablet,Premium,India,4,Completed,0,Thursday,January,Binge
+U0393,Stranger Things,Thriller,2024-01-15,31,Laptop,Premium,India,5,Dropped,0,Monday,January,Normal
+U0394,Narcos,Drama,2024-03-16,74,Smart TV,Standard,UK,3,Partial,0,Saturday,March,Normal
+U0395,Narcos,Thriller,2024-01-01,53,Smart TV,Basic,USA,3,Dropped,0,Monday,January,Normal
+U0396,Money Heist,Action,2024-04-16,164,Laptop,Standard,Australia,1,Partial,0,Tuesday,April,Binge
+U0397,Breaking Bad,Action,2024-03-03,135,Mobile,Basic,Canada,3,Partial,0,Sunday,March,Binge
+U0398,Money Heist,Action,2024-06-10,141,Mobile,Standard,UK,1,Completed,0,Monday,June,Binge
+U0399,Narcos,Thriller,2024-03-23,86,Mobile,Standard,USA,3,Dropped,0,Saturday,March,Normal
+U0400,Breaking Bad,Action,2024-03-27,124,Tablet,Standard,Canada,1,Dropped,0,Wednesday,March,Binge
+U0401,Friends,Comedy,2024-04-26,160,Mobile,Premium,Australia,1,Partial,0,Friday,April,Binge
+U0402,The Crown,Drama,2024-04-17,177,Tablet,Premium,Australia,3,Partial,0,Wednesday,April,Binge
+U0403,Breaking Bad,Comedy,2024-03-03,12,Mobile,Premium,Australia,2,Partial,0,Sunday,March,Normal
+U0404,Money Heist,Thriller,2024-05-26,170,Laptop,Standard,Canada,3,Partial,0,Sunday,May,Binge
+U0405,Friends,Documentary,2024-01-18,49,Tablet,Premium,Australia,4,Dropped,0,Thursday,January,Normal
+U0406,Friends,Comedy,2024-06-12,148,Mobile,Premium,India,2,Partial,0,Wednesday,June,Binge
+U0407,The Crown,Thriller,2024-04-22,95,Laptop,Basic,Canada,2,Completed,0,Monday,April,Binge
+U0408,Breaking Bad,Comedy,2024-01-22,167,Smart TV,Standard,UK,5,Completed,0,Monday,January,Binge
+U0409,The Crown,Drama,2024-05-12,99,Mobile,Basic,Australia,2,Partial,0,Sunday,May,Binge
+U0410,Narcos,Drama,2024-01-23,107,Smart TV,Premium,Australia,3,Dropped,0,Tuesday,January,Binge
+U0411,Breaking Bad,Comedy,2024-05-31,112,Smart TV,Basic,UK,4,Dropped,0,Friday,May,Binge
+U0412,Money Heist,Action,2024-06-07,29,Tablet,Basic,Canada,5,Partial,0,Friday,June,Normal
+U0413,Money Heist,Drama,2024-05-30,83,Laptop,Premium,USA,2,Partial,0,Thursday,May,Normal
+U0414,Narcos,Romance,2024-04-19,70,Tablet,Standard,India,5,Dropped,0,Friday,April,Normal
+U0415,Breaking Bad,Documentary,2024-04-25,102,Smart TV,Premium,India,2,Dropped,0,Thursday,April,Binge
+U0416,Breaking Bad,Documentary,2024-04-27,129,Smart TV,Premium,USA,3,Partial,0,Saturday,April,Binge
+U0417,Stranger Things,Thriller,2024-01-16,83,Laptop,Standard,Australia,3,Partial,0,Tuesday,January,Normal
+U0418,Breaking Bad,Drama,2024-06-16,107,Mobile,Standard,Australia,5,Dropped,0,Sunday,June,Binge
+U0419,The Crown,Thriller,2024-01-16,180,Smart TV,Premium,Australia,1,Partial,0,Tuesday,January,Binge
+U0420,Breaking Bad,Thriller,2024-05-30,91,Tablet,Standard,Australia,2,Dropped,0,Thursday,May,Binge
+U0421,Money Heist,Comedy,2024-05-15,171,Tablet,Standard,USA,4,Completed,0,Wednesday,May,Binge
+U0422,Breaking Bad,Thriller,2024-04-17,60,Laptop,Standard,Australia,4,Partial,0,Wednesday,April,Normal
+U0423,Breaking Bad,Drama,2024-01-31,20,Mobile,Basic,USA,2,Partial,0,Wednesday,January,Normal
+U0424,Money Heist,Drama,2024-05-04,65,Mobile,Basic,India,5,Partial,0,Saturday,May,Normal
+U0425,Narcos,Comedy,2024-03-25,104,Laptop,Premium,India,1,Completed,0,Monday,March,Binge
+U0426,Money Heist,Thriller,2024-02-15,100,Tablet,Basic,UK,5,Completed,0,Thursday,February,Binge
+U0427,The Crown,Thriller,2024-05-01,47,Laptop,Premium,Australia,3,Dropped,0,Wednesday,May,Normal
+U0428,The Crown,Comedy,2024-01-12,127,Tablet,Basic,USA,4,Partial,0,Friday,January,Binge
+U0429,Breaking Bad,Romance,2024-01-05,15,Mobile,Standard,USA,5,Completed,0,Friday,January,Normal
+U0430,Friends,Comedy,2024-05-09,17,Tablet,Standard,Australia,4,Partial,0,Thursday,May,Normal
+U0431,Money Heist,Romance,2024-04-27,20,Mobile,Standard,UK,3,Partial,0,Saturday,April,Normal
+U0432,Breaking Bad,Documentary,2024-02-13,115,Tablet,Basic,Australia,3,Completed,0,Tuesday,February,Binge
+U0433,Friends,Comedy,2024-02-26,169,Smart TV,Standard,Canada,5,Completed,0,Monday,February,Binge
+U0434,Money Heist,Thriller,2024-05-21,109,Mobile,Basic,Canada,4,Dropped,0,Tuesday,May,Binge
+U0435,Breaking Bad,Action,2024-02-21,162,Tablet,Premium,USA,2,Completed,0,Wednesday,February,Binge
+U0436,Money Heist,Thriller,2024-04-22,100,Smart TV,Standard,Canada,3,Dropped,0,Monday,April,Binge
+U0437,Money Heist,Documentary,2024-02-14,124,Mobile,Premium,UK,2,Completed,0,Wednesday,February,Binge
+U0438,Friends,Comedy,2024-05-28,158,Mobile,Standard,USA,2,Partial,0,Tuesday,May,Binge
+U0439,Money Heist,Drama,2024-01-01,12,Mobile,Premium,India,2,Partial,0,Monday,January,Normal
+U0440,Narcos,Drama,2024-06-20,52,Smart TV,Standard,USA,1,Dropped,0,Thursday,June,Normal
+U0441,Money Heist,Thriller,2024-01-05,34,Tablet,Basic,Australia,4,Dropped,0,Friday,January,Normal
+U0442,Friends,Action,2024-05-28,87,Tablet,Standard,Canada,2,Partial,0,Tuesday,May,Normal
+U0443,Money Heist,Thriller,2024-03-27,36,Smart TV,Premium,Australia,1,Completed,0,Wednesday,March,Normal
+U0444,Narcos,Drama,2024-01-23,126,Tablet,Standard,Canada,1,Partial,0,Tuesday,January,Binge
+U0445,Money Heist,Thriller,2024-04-28,128,Laptop,Premium,Australia,1,Dropped,0,Sunday,April,Binge
+U0446,Friends,Comedy,2024-04-12,57,Mobile,Standard,UK,3,Completed,0,Friday,April,Normal
+U0447,Stranger Things,Romance,2024-01-03,135,Laptop,Premium,UK,3,Partial,0,Wednesday,January,Binge
+U0448,The Crown,Romance,2024-01-26,139,Tablet,Basic,USA,2,Dropped,0,Friday,January,Binge
+U0449,Narcos,Thriller,2024-06-07,15,Laptop,Premium,UK,5,Completed,0,Friday,June,Normal
+U0450,Breaking Bad,Drama,2024-02-29,59,Laptop,Premium,UK,5,Partial,0,Thursday,February,Normal
+U0451,Breaking Bad,Romance,2024-04-28,142,Mobile,Standard,UK,1,Dropped,0,Sunday,April,Binge
+U0452,Friends,Thriller,2024-06-17,108,Laptop,Basic,Canada,2,Partial,0,Monday,June,Binge
+U0453,Narcos,Comedy,2024-03-27,76,Smart TV,Premium,India,1,Completed,0,Wednesday,March,Normal
+U0454,Friends,Drama,2024-05-03,29,Tablet,Basic,Australia,2,Completed,0,Friday,May,Normal
+U0455,Friends,Romance,2024-04-29,102,Smart TV,Basic,USA,2,Completed,0,Monday,April,Binge
+U0456,The Crown,Drama,2024-04-20,148,Smart TV,Premium,USA,5,Partial,0,Saturday,April,Binge
+U0457,Narcos,Comedy,2024-05-23,159,Laptop,Standard,UK,2,Completed,0,Thursday,May,Binge
+U0458,The Crown,Action,2024-04-09,166,Tablet,Standard,USA,1,Completed,0,Tuesday,April,Binge
+U0459,Breaking Bad,Action,2024-05-06,118,Smart TV,Standard,USA,3,Completed,0,Monday,May,Binge
+U0460,Friends,Action,2024-05-03,110,Laptop,Standard,India,1,Completed,0,Friday,May,Binge
+U0461,Stranger Things,Comedy,2024-04-15,119,Laptop,Basic,India,1,Partial,0,Monday,April,Binge
+U0462,Breaking Bad,Action,2024-06-13,77,Laptop,Standard,Canada,3,Partial,0,Thursday,June,Normal
+U0463,The Crown,Romance,2024-05-28,67,Mobile,Premium,UK,2,Dropped,0,Tuesday,May,Normal
+U0464,Stranger Things,Action,2024-05-06,137,Laptop,Basic,USA,2,Partial,0,Monday,May,Binge
+U0465,Money Heist,Documentary,2024-03-31,130,Tablet,Standard,India,3,Completed,0,Sunday,March,Binge
+U0466,Money Heist,Comedy,2024-04-29,126,Smart TV,Standard,Australia,3,Completed,0,Monday,April,Binge
+U0467,Breaking Bad,Drama,2024-03-24,28,Laptop,Standard,Canada,2,Dropped,0,Sunday,March,Normal
+U0468,Money Heist,Comedy,2024-02-12,143,Mobile,Standard,India,1,Partial,0,Monday,February,Binge
+U0469,Narcos,Documentary,2024-02-29,109,Smart TV,Standard,USA,4,Dropped,0,Thursday,February,Binge
+U0470,Money Heist,Thriller,2024-04-29,22,Smart TV,Premium,UK,4,Completed,0,Monday,April,Normal
+U0471,The Crown,Drama,2024-05-02,56,Smart TV,Basic,UK,1,Dropped,0,Thursday,May,Normal
+U0472,The Crown,Romance,2024-03-26,17,Smart TV,Basic,India,2,Dropped,0,Tuesday,March,Normal
+U0473,Breaking Bad,Documentary,2024-01-28,167,Mobile,Premium,USA,3,Partial,0,Sunday,January,Binge
+U0474,Money Heist,Comedy,2024-05-13,156,Smart TV,Standard,USA,4,Completed,0,Monday,May,Binge
+U0475,Narcos,Action,2024-01-13,33,Tablet,Premium,USA,2,Partial,0,Saturday,January,Normal
+U0476,Breaking Bad,Comedy,2024-06-27,160,Smart TV,Standard,Canada,1,Completed,0,Thursday,June,Binge
+U0477,Narcos,Action,2024-03-25,172,Smart TV,Premium,Canada,1,Dropped,0,Monday,March,Binge
+U0478,Stranger Things,Romance,2024-02-04,58,Smart TV,Premium,India,3,Dropped,0,Sunday,February,Normal
+U0479,The Crown,Comedy,2024-03-31,102,Smart TV,Basic,Australia,2,Completed,0,Sunday,March,Binge
+U0480,Money Heist,Action,2024-03-10,172,Smart TV,Premium,Canada,2,Partial,0,Sunday,March,Binge
+U0481,Friends,Drama,2024-06-02,36,Smart TV,Basic,India,2,Completed,0,Sunday,June,Normal
+U0482,Narcos,Drama,2024-03-21,54,Laptop,Premium,USA,5,Dropped,0,Thursday,March,Normal
+U0483,Stranger Things,Comedy,2024-05-06,47,Tablet,Standard,USA,5,Completed,0,Monday,May,Normal
+U0484,Stranger Things,Action,2024-03-29,146,Laptop,Basic,UK,5,Dropped,0,Friday,March,Binge
+U0485,Breaking Bad,Romance,2024-03-30,62,Laptop,Premium,India,4,Dropped,0,Saturday,March,Normal
+U0486,Narcos,Comedy,2024-03-04,143,Laptop,Standard,Australia,5,Completed,0,Monday,March,Binge
+U0487,Breaking Bad,Thriller,2024-05-25,179,Smart TV,Standard,Canada,3,Completed,0,Saturday,May,Binge
+U0488,Breaking Bad,Action,2024-01-09,90,Tablet,Premium,USA,2,Dropped,0,Tuesday,January,Binge
+U0489,The Crown,Action,2024-03-03,162,Laptop,Basic,Australia,5,Partial,0,Sunday,March,Binge
+U0490,Narcos,Thriller,2024-01-07,20,Tablet,Premium,USA,5,Completed,0,Sunday,January,Normal
+U0491,The Crown,Comedy,2024-05-20,152,Laptop,Basic,UK,3,Completed,0,Monday,May,Binge
+U0492,Breaking Bad,Drama,2024-04-16,37,Tablet,Basic,India,5,Partial,0,Tuesday,April,Normal
+U0493,The Crown,Romance,2024-06-07,82,Tablet,Standard,Australia,1,Partial,0,Friday,June,Normal
+U0494,Money Heist,Thriller,2024-01-31,132,Tablet,Basic,USA,3,Partial,0,Wednesday,January,Binge
+U0495,The Crown,Documentary,2024-01-01,95,Laptop,Basic,Canada,4,Dropped,0,Monday,January,Binge
+U0496,Money Heist,Drama,2024-06-01,47,Tablet,Premium,USA,4,Partial,0,Saturday,June,Normal
+U0497,Narcos,Action,2024-06-12,12,Smart TV,Standard,UK,5,Completed,0,Wednesday,June,Normal
+U0498,Money Heist,Comedy,2024-02-19,52,Smart TV,Basic,Canada,2,Partial,0,Monday,February,Normal
+U0499,Breaking Bad,Documentary,2024-02-13,104,Laptop,Premium,Australia,4,Dropped,0,Tuesday,February,Binge
+U0500,Breaking Bad,Documentary,2024-02-20,140,Mobile,Standard,USA,2,Dropped,0,Tuesday,February,Binge
